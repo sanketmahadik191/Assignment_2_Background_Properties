@@ -1,0 +1,65 @@
+    #navbar {
+        display: inline-block;
+        margin-right: 200px;
+        text-align: center;
+        color: white;
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    
+    header {
+        text-align: center;
+        height: 100px;
+        background-color: black;
+        padding-top: 20px;
+    }
+    
+    #image1 {
+        background-repeat: no-repeat;
+        background-image: url(https://images.unsplash.com/photo-1565008447742-97f6f38c985c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80);
+        height: 500px;
+        background-size: cover;
+    }
+    
+    #box1 {
+        background-image: url(https://images.unsplash.com/photo-1591588582259-e675bd2e6088?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80);
+    }
+    
+    #box2 {
+        background-image: url(https://images.unsplash.com/photo-1593313637552-29c2c0dacd35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80);
+    }
+    
+    #box3 {
+        background-image: url(https://plus.unsplash.com/premium_photo-1682724602925-f0264b85953f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80);
+    }
+    
+    #box1,
+    #box2,
+    #box3 {
+        height: 400px;
+        width: 600px;
+        background-size: cover;
+        display: inline-block;
+        margin: 10px;
+    }
+    
+    #mid {
+        text-align: center;
+    }
+    
+    #box4 {
+        display: inline-block;
+        height: 600px;
+        width: 1120px;
+        background-size: cover;
+        background-image: url(https://images.unsplash.com/photo-1485083269755-a7b559a4fe5e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80);
+    }
+    
+    footer {
+        text-align: center;
+        height: 100px;
+        background-color: black;
+        color: aliceblue;
+        font-size: 20px;
+        padding: 30px;
+    }
